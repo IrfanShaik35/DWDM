@@ -1,0 +1,19 @@
+%% temperature
+@relation temperature
+@attribute instance numeric
+@attribute A1{true,false}
+@attribute A2{hot,cool} 
+@attribute A3{high,normal}
+@attribute class{yes,no}
+
+@data
+1,'true','hot','high','no'
+2,'true','hot','high','no'
+3,'false','hot','high','yes'
+4,'false','cool','normal','yes'
+5,'false','cool','normal','yes'
+6,'true','cool','high','no'
+7,'true','hot','high','no'
+8,'true','hot','normal','yes'
+9,'false','cool','normal','yes'
+10,'false','cool','high','yes'

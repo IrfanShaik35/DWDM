@@ -1,0 +1,11 @@
+%%decisiontree
+@relation decision_tree
+@attribute height_of_the_person numeric
+@attribute weight_of_the_person numeric
+@attribute type {'male',female'}
+
+
+@data
+180,80,'male'
+190,90,'male'
+175,75,'female'

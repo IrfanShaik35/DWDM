@@ -1,0 +1,16 @@
+@relation items
+@attribute a{t,f}
+@attribute b{t,f}
+@attribute c{t,f}
+@attribute d{t,f}
+@attribute e{t,f}
+@data
+t f t t f
+t t t f t
+t t f t t
+f t t f t
+f t f t f
+f f t t f
+t t f f t
+t f f t t 
+t f t f t

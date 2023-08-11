@@ -1,0 +1,18 @@
+@relation item_set
+@attribute m{T,F}
+@attribute o{T,F}
+@attribute n{T,F}
+@attribute k{T,F}
+@attribute e{T,F}
+@attribute y{T,F}
+@attribute d{T,F}
+@attribute a{T,F}
+@attribute u{T,F}
+@attribute c{T,F}
+@attribute i{T,F}
+@data
+T T T T T T F F F F F
+F T T T T T T F F F F
+T F F T T F F T F F F
+T F F T F T F F T T F
+F T F T T F F F F T T 

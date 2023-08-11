@@ -1,0 +1,15 @@
+@relation employee-weka.filters.unsupervised.attribute.Add-TNOM-Nunnamed-Lclimate-Clast-weka.filters.unsupervised.attribute.Remove-R7-weka.filters.unsupervised.attribute.Add-Ndesig-Clast-weka.filters.unsupervised.attribute.Remove-R4-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0
+
+@attribute name {x,y,z,a,b}
+@attribute id numeric
+@attribute salary {low,medium,high}
+@attribute gender {male,female}
+@attribute phone numeric
+@attribute desig numeric
+
+@data
+x,0,low,male,0.973691,?
+y,0.25,high,female,1,?
+z,0.5,medium,male,0.777966,?
+a,0.75,low,female,0,?
+b,1,high,male,0.778004,?

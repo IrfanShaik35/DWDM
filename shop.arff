@@ -1,0 +1,18 @@
+@relation shop
+@attribute APPLE{True,False}
+@attribute BANANA{True,False}
+@attribute CARROT{True,False}
+@attribute DUCK{True,False}
+@attribute EGG{True,False}
+@attribute FISH{True,False}
+
+@data
+True,True,False,False,True,True
+True,False,True,False,True,False
+False,True,False,True,False,True
+False,True,True,True,True,False
+False,True,False,False,False,True
+True,True,False,False,True,False
+False,False,False,False,True,True
+True,False,False,False,False,True
+

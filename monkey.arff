@@ -1,0 +1,15 @@
+@relation monkey
+@attribute M {True,False}
+@attribute O {True,False}
+@attribute N {True,False}
+@attribute K {True,False}
+@attribute E {True,False}
+@attribute Y {True,False}
+@attribute C {True,False}
+@attribute D {True,False}
+@attribute I {True,False}
+
+@data
+True,True,True,True,True,True,False,False,False
+False,True,True,True,True,True,False,False,False
+False,True,True,True,True,True,False,True,False

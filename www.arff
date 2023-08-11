@@ -1,0 +1,23 @@
+@relation www
+@attributes beard{true,false}
+@attributes milk{true,false}
+@attributes egg{true,false}
+@attributes fruits{true,false}
+@attributes juice{true,false}
+@attributes cake{true,false}
+@attributes jam{true,false}
+ 
+@data
+true,false,true,true,false,true,false
+true,false,true,false,true,false,true
+true,false,true,false,true,true,true
+false,false,true,true,false,true,false
+false,false,true,true,false,true,false
+true,true,true,false,false,false,true
+false,false,true,false,true,true,true
+true,true,false,false,true,false,true
+false,true,true,true,true,true,false
+false,true,true,true,true,false,false
+true,false,false,true,true,false,true
+
+

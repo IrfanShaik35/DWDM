@@ -1,0 +1,12 @@
+@relation gun
+@attribute style{single,auto,burst}
+@attribute model{ak,utr,sniper,pistel,rif}
+@attribute cost numeric
+@attribute sold{legal,illegal}
+
+@data
+single,ak,100,illegal
+single,utr,300,legal
+burst,rif,350,illegal
+auto,pistel,400,legal
+auto,rif,200,legal
