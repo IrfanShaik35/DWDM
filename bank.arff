@@ -1,0 +1,15 @@
+@relation bankcustomer
+@attribute maital status{married,single,divorced}
+@attribute gender{male,female}
+@attribute age{[18-30],[30-50],[50-65],[65+]}
+@attribute income{[10k-25k],[25k-50k],[50k-65k],[65k-100k],[100k+]}
+@data
+married,male,35,45k
+married,female,30,50k
+singe,male,25,100k
+divorced,female,55,20k
+divorced,male,50,40k
+married,male,65,90k
+married,female,40,20k
+married,male,25,100k
+single,female,19,10k

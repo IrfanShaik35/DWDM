@@ -1,0 +1,18 @@
+@relation bankcustomer
+@attribute maritastatus{single,married,divorced}
+@attribute gender{male,female}
+@attribute age{19,25,40,65,50,55,30,35}
+@attribute income{10000,20000,50000,40000,45000,90000,100000}
+
+
+
+@data
+married,male,35,45000
+married,female,30,50000
+single,male,25,100000
+divorced,female,55,20000
+divorced,male,50,40000
+married,male,65,90000
+married,female,40,20000
+married,male,25,10000
+single,female,40,20000
